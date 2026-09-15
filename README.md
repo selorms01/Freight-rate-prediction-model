@@ -45,7 +45,7 @@ score.py        provided scorer (validates outputs, draws the December chart)
 
 ## Approach summary
 
-See `reports/model_report.docx` for the full writeup (data quality issues,
+See `reports/model_report.pdf` for the full writeup (data quality issues,
 validation strategy, model choice, and results). In short: gradient-boosted
 trees (`HistGradientBoostingRegressor`, MAE loss) on distance, equipment,
 lane (pickup/delivery), weight, market_index, quote_signal, and date-derived
