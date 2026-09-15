@@ -1,0 +1,11 @@
+{
+  "n_train": 38477,
+  "n_holdout": 9523,
+  "holdout_period": "2025-09-01 to 2025-10-31 (time-based holdout within train_test.csv)",
+  "MAE": 110.26466606888718,
+  "RMSE": 635.1819286047527,
+  "MAPE": 0.04750726680834965,
+  "R2": 0.8267563238569866,
+  "random_split_MAE": 91.4141894669565,
+  "random_split_R2": 0.8229254462257062
+}
